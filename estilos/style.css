@@ -29,6 +29,7 @@ a:visited {
 
 a:hover {
 	color: gold;
+	transition-property: background;
 	transition-duration: 1; 
 }
 a:hover {
